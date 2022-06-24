@@ -45,7 +45,7 @@ public class DemoApplication extends Application {
         return instance;
     }
 
-    private int sdkAppId = 0;
+    private int sdkAppId = 1400358289;
     @Override
     public void onCreate() {
         DemoLog.i(TAG, "onCreate");
